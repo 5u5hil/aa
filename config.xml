@@ -4,13 +4,16 @@
         versionCode = "10"
         version     = "1.0.0" >
 
+    <preference name="phonegap-version" value="cli-6.0.0" />
+    <preference name="orientation" value="landscape" />
+    <preference name="fullscreen" value="true" /> 
     <!-- versionCode is optional and Android only -->
     <platform name="winphone" />
     <author>Infini Systems Pvt Ltd</author>
     <preference name="windows-identity-name" value="InfiniSystemsPvtLtd.AskAudience" />
     <!-- Windows 8.1: -->
     <!-- Windows 10 (default): -->
-<!--    <preference name="windows-appx-target" value="uap" />
+    <!--    <preference name="windows-appx-target" value="uap" />
      Windows 8.1: 
     <preference name="windows-appx-target" value="8.1-win" />-->
     <!-- Windows Phone 8.1: -->
