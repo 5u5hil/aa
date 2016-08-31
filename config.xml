@@ -6,6 +6,11 @@
 
     <!-- versionCode is optional and Android only -->
     <platform name="winphone" />
+    <author>Infini Systems Pvt Ltd</author>
+    <preference name="windows-identity-name" value="InfiniSystemsPvtLtd.AskAudience" />
+
+
+
 
     <name>Ask Audience</name>
 
